@@ -1,10 +1,11 @@
+import FormikDemo from "./components/formik/formik";
 
 
 function App() {
   return (
     <div>
 
-{/* first commit */}
+<FormikDemo/>
 
     </div>
   );
